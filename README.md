@@ -29,3 +29,4 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [lil-course-url]: https://www.linkedin.com/learning/introduction-to-terraform-on-google-cloud-platform
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQG-tVVvLSYwLg/learning-public-crop_675_1200/0/1707866981241?e=2147483647&v=beta&t=i3cBujXPDh7_dfqGmPX9ZWy83CsJjy6heqdYtuiVU-8
 
+
