@@ -1,4 +1,4 @@
-module "app _network" {
+module "app_network" {
   source  = "terraform-google-modules/network/google"
   version = "9.0.0"
   network_name = "${var.network_name}-network"
