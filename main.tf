@@ -31,7 +31,7 @@ resource "google_compute_instance" "web" {
     }
   }
   network_interface {
-   subnetwork = "test-subnetwork"
+   subnetwork = "app-subnetwork"
    access_config {
       # Leave empty for dynamic public IP
     }
