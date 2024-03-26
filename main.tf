@@ -15,8 +15,6 @@ module "app_network" {
     description             = "Inbound web"
     source_ranges           = ["0.0.0.0/0"]
     target_tags             = ["${var.network_name}-web"]
-    target_service_accounts = optional(list(string))
-
     allow = [{
       protocol = "tcp"
       ports = ["80", "443"],
