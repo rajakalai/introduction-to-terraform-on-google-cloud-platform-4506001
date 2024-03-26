@@ -16,8 +16,8 @@ data "google_compute_image" "ubuntu" {
   family      = "ubuntu-2204-lts"
 }
 
-resource "google_compute_instance" "web" {
-  name         = "web"
+resource "google_compute_instance" "blog" {
+  name         = "blog1"
   machine_type = "e2-micro"
 
   boot_disk {
